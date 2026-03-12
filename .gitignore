@@ -1,0 +1,17 @@
+# Binaries
+*.so
+*.c
+*.pyc
+__pycache__/
+build/
+dist/
+*.egg-info/
+
+# Source files (keep only __init__.py)
+*.py
+!__init__.py
+
+# Development
+.vscode/
+.DS_Store
+*.log
