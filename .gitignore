@@ -1,5 +1,4 @@
 # Binaries
-*.so
 *.c
 *.pyc
 __pycache__/
