@@ -1,6 +1,5 @@
 # Binaries
 *.c
-*.pyc
 __pycache__/
 build/
 dist/
@@ -14,3 +13,4 @@ dist/
 .vscode/
 .DS_Store
 *.log
+*.so
